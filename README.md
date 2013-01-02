@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Telescope is an open-source, real-time social news site built with [Meteor](http://meteor.com)
 
 **Note:** Telescope is beta software. Most of it should work but it's still a little unpolished and you'll probably find some bugs. Use at your own risk :)
@@ -44,3 +45,9 @@ For example, to configure Meteor to use Mailgun for email, in your `.bash_profil
 
 This can also be useful for starting Meteor on a specific port:
 `alias m4='MAIL_URL=smtp://username:password@smtp.mailgun.org:587/ mrt --port 4000'`
+=======
+Telescope
+=========
+
+Fork of Telescope Meteor Demo.
+>>>>>>> d9294a03672d60aeb3565537b861d9e139d500b5
